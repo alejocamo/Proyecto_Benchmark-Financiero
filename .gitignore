@@ -1,0 +1,33 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Power BI cache
+*.pbix.autorecovery
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos grandes opcionales
+Datos/*.xlsx
+Datos/*.csv
+
+# Outputs intermedios
+Outputs/*.csv
